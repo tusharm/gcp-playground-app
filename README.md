@@ -6,3 +6,4 @@ Playground to experiment with GCP services
 
 - https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
 - https://cloud.google.com/cloud-build/docs/automating-builds/run-builds-on-github
+- https://cloud.google.com/cloud-build/docs/build-debug-locally
